@@ -1,0 +1,68 @@
+.logo{ 
+    
+    padding: 15px 0;
+}
+header.top-header {
+    background: #23272a;
+}
+.bg-cam {
+    background: #e44f2b;
+}
+.nvarbar-dark .navbar-nav .nav-link {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.banner h1 {
+    color:#e44f2b;
+    margin-top: 50px;
+    font-weight: normal;
+}
+.banner p{ 
+    color: #8fa7ae;
+    font-size: 1.3em;
+}
+.btn-shop {
+    display: inline-block;
+    background: #8fa7ae;
+    color: #23272a;
+    text-decoration: none;
+    padding: 3px 25px;
+    font-size: 1.1em;
+    border-radius: 100px;
+}
+.nav{
+    background: #e44f2b;
+    padding: 15px 0;
+}
+.nav .home{
+    text-decoration: none;
+    color: #fff;
+    padding-left: 25px;
+}
+.nav .Appliances{
+    text-decoration: none;
+    color: #fff;
+    padding-left: 25px;
+}
+
+.nav .Contactus{
+    text-decoration: none;
+    color: #fff;
+    padding-left: 25px;
+}
+
+.nav .shop{
+    text-decoration: none;
+    color: #fff;
+    padding-left: auto;
+    display: inline-block;
+}
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+.container {
+    width: 1400px;
+}
